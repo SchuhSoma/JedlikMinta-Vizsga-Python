@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "JedlikMinta Vizsga Python", "JedlikMinta Vizsga Python\JedlikMinta Vizsga Python.pyproj", "{D418EACA-6E94-463D-97BE-C9914755E372}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D418EACA-6E94-463D-97BE-C9914755E372}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D418EACA-6E94-463D-97BE-C9914755E372}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2E77115-7F0D-4EE6-91ED-7ABA6D1B192B}
+	EndGlobalSection
+EndGlobal
